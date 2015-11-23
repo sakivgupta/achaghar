@@ -1,0 +1,6 @@
+achaghar/*.pyc
+common/*.pyc
+postadd/*.pyc
+postadd/migrations/*.pyc
+achaghar/locals.py
+
